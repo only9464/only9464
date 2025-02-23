@@ -1,49 +1,48 @@
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20only9464!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
+### 个人资料  👋<a href="https://github.com/only9464/"><img align="right" src="https://komarev.com/ghpvc/?username=only9464&label=Views"></a>
+-  [哈尔滨工程大学](http://www.hrbeu.edu.cn/)**本科信息安全**(2022.9~2026.6)
+-  目前主要在学习[Golang](https://go.dev/)、[Vue](https://cn.vuejs.org/)、[Wails](https://wails.io/zh-Hans/)、[Kotlin](https://kotlinlang.org/)、[Android](https://www.android.com/)逆向
+- 个人博客：[👋 Click here! \  点击前往](https://blog.mioe.me/)
+### 信息
+<table align="center">
+    <tr>
+        <td align="center">
+          <picture>
+            <img src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=only9464&show_icons=true&include_all_commits=true">
+          </picture>
+        </td>
+        <td align="center">
+          <picture>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=only9464&layout=compact&langs_count=12">
+          </picture>
+        </td>
+    </tr>
+</table>
 
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的Github主页！" />
-</p>
+### 推荐项目
+
+<table align="center">
+    <tr>
+        <td align="center">
+          <picture>
+            <a href="https://github.com/only9464/HEU-Wisedu">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=only9464&repo=HEU-Wisedu&show_owner=true">
+            </a>
+          </picture>
+        </td>
+        <td align="center">
+          <picture>
+            <a href="https://github.com/only9464/Fuck-YuKeTang">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=only9464&repo=Fuck-YuKeTang&show_owner=true">
+            </a>
+          </picture>
+        </td>
+    </tr>
+</table>
+
+### 语言、框架、工具
 
 <p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=only9464&theme=transparent&show_icons=true&hide_border=true" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=only9464&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=only9464&theme=github-compact&hide_border=true&area=true" />
-<br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=only9464&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> -->
-  
-<!-- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sky9464)](https://wakatime.com/@sky9464)-->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=only9464&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
-<!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=go,vue,py,c,cpp,cs,java,kotlin,html,css,js,ts,md,matlab&theme=light" />
-</p>
-
-<!-- https://github.com/badges/shields -->
-<p align="center">
-<a href="https://github.com/only9464"><img src="https://img.shields.io/badge/GitHub-only9464-blue?logo=github" /></a>
-<a href="https://blog.csdn.net/weixin_73668144"><img src="https://img.shields.io/badge/CSDN-Sky9464-red?logo=https://csdnimg.cn/release/phoenix/images/logo.gif" /></a>
-<a href="https://space.bilibili.com/1578945553"><img src="https://img.shields.io/badge/哔哩哔哩-沁伊爱比剪刀手-pink?logo=bilibili" /></a>
-<a href="https://t.me/sky9464"><img src="https://img.shields.io/badge/Telegram-@sky9464-green?logo=telegram" /></a>
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=only9464&abbreviated=true&color=yellow" />
-</p>
-<p align="center">
-
-[![GlideWay](https://github-readme-stats.vercel.app/api/pin/?username=only9464&repo=GlideWay&show_owner=true)](https://github.com/only9464/GlideWay)
-[![heu-icicles](https://github-readme-stats.vercel.app/api/pin/?username=HEUOpenResource&repo=heu-icicles&show_owner=true)](https://github.com/HEUOpenResource/heu-icicles)
-</p>
-
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+    <picture>
+        <img src="https://skillicons.dev/icons?i=go,js,ts,py,cpp,c,kotlin,java,bash,vue,nodejs,vscode,pycharm,androidstudio,idea&theme=light" />
+    </picture>
 </p>
