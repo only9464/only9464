@@ -48,6 +48,9 @@
     </picture>
 </p>
 
-## 最近(躺平，转行中......)
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=only9464&theme=github-compact&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=only9464&theme=github-compact&hide_border=true&area=true)
-
+## 最近(开摆)
+<p align="center">
+  <a href="https://blog.mioe.me">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=only9464&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
+  </a>
+</p>
