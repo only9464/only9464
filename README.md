@@ -44,7 +44,7 @@
 
 <p align="center">
     <picture>
-        <img src="https://skillicons.dev/icons?i=go,js,ts,py,cpp,c,kotlin,java,bash,vue,nodejs,vscode,pycharm,androidstudio,idea&theme=light" />
+        <img src="https://skillicons.dev/icons?i=go,js,ts,py,cpp,c,kotlin,java,bash,vue,docker,vscode,pycharm,androidstudio,idea&theme=light" />
     </picture>
 </p>
 
