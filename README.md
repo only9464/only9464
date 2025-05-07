@@ -1,7 +1,7 @@
 ### 个人资料  👋<a href="https://github.com/only9464/"><img align="right" src="https://komarev.com/ghpvc/?username=only9464&label=Views"></a>
 -  [哈尔滨工程大学](http://www.hrbeu.edu.cn/)**本科信息安全**(2022.9~2026.6)
 -  目前主要在学习[Golang](https://go.dev/)、[Vue](https://cn.vuejs.org/)、[Wails](https://wails.io/zh-Hans/)、[Kotlin](https://kotlinlang.org/)、[Android](https://www.android.com/)逆向
-- 个人博客：[👋 Click here! \  点击前往](https://blog.mioe.me/)
+- 个人博客：[👋 Click here! \  点击前往](https://blog.529464.xyz/)
 - 联系我：[sky9464@qq.com](mailto:sky9464@qq.com)
 ### 信息
 <table align="center">
