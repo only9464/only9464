@@ -25,14 +25,14 @@
     <tr>
         <td align="center">
           <picture>
-            <a href="https://github.com/only9464/HEU-Wisedu">
+            <a href="https://github.com/WerWolv/ImHex">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=WerWolv&repo=ImHex&show_owner=true">
             </a>
           </picture>
         </td>
         <td align="center">
           <picture>
-            <a href="https://github.com/only9464/Fuck-YuKeTang">
+            <a href="https://github.com/only9464/HEU-Wisedu">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=only9464&repo=HEU-Wisedu&show_owner=true">
             </a>
           </picture>
